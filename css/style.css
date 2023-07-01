@@ -838,6 +838,11 @@ picture img {
   html {
     min-width: 55rem !important;
   }
+
+  .main-cont {
+    margin-left: 1.5rem;
+  }
+
   .skills-text {
     font-size: 1.8rem;
     text-align: start;
