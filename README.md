@@ -1,6 +1,7 @@
 # Portfolio
 
 My First Portfolio built with HTML5/CSS and Javascript, required dedicated effort and hard work to overcome.
+* You can download My CV by clicking Resume button *
 
 ## Built With
 - Semantic HTML5
